@@ -1,0 +1,32 @@
+.verde{
+width: 400px;
+height: 100px;
+border:#008744 2px solid;
+background-color: #008744;
+padding: 10px;
+display: inline-block;
+}
+.blanco{
+width: 400px;
+height: 100px;
+border: #000000 2px solid;
+background-color: #FFFFFF;
+padding: 10px;
+display: inline-block;
+}
+.rojo{
+width: 400px;
+height: 100px;
+border:#AE0001 2px solid;
+background-color: #AE0001;
+padding: 10px;
+display: inline-block;	
+}
+*{
+	font-family: arial;
+	color: #FFFFFF;
+	font-size: 120%;
+}
+#negra{
+	color:#000000;
+}
